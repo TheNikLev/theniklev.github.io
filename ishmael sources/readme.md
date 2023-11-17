@@ -4,6 +4,8 @@ original art by **sum56429629**, who've deleted their [twitter](https://web.arch
 
 so i decided to redraw it, just for fun 
 
+## you can find the actual gifs [here](https://github.com/TheNikLev/theniklev.github.io/tree/main/gifs)
+
 just in case, i used Adobe Illustrator for the vector art (.svg file) and After Effects to animate it, source files are here
 
 btw I spent ~16 hrs to make it... jeez... that's actually because i'm not as profounded in Illustrator as in Photoshop (love Photoshop <3)
